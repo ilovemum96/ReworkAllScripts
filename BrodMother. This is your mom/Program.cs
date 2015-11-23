@@ -33,7 +33,7 @@ namespace This_is_your_Mom
         private static Key keyCHASING = Key.Space;
         private static Key keyCOMBO = Key.D;
         private static Key toggleKey = Key.D5;
-        private static Key toggleLasthitKey = Key.D7;
+        private static Key toggleLasthitKey = Key.B;
         private static Key UseQ = Key.Q;
 
 
